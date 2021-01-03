@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-   "dev": "nodemon ./app.js"
+    "dev": "nodemon ./app.js"
   },
   "dependencies": {
     "compression": "^1.7.4",
